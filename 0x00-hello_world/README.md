@@ -5,3 +5,4 @@
 4- writing a c script sing put 
 5- writing a c script using printf
 6- writing a x script tha prints the size of various data types
+7- generate assmbly code intelsyntax
