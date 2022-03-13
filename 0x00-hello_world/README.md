@@ -3,3 +3,4 @@
 2- generate the assembly code of c code and save
 3- complies  a C file create an excutabale file named cisfun
 4- writing a c script sing put 
+5- writing a c script using printf
