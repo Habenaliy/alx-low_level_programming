@@ -4,3 +4,4 @@
 3- complies  a C file create an excutabale file named cisfun
 4- writing a c script sing put 
 5- writing a c script using printf
+6- writing a x script tha prints the size of various data types
